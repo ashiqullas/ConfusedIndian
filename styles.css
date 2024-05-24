@@ -23,6 +23,10 @@ body {
     height: auto;
 }
 
+.spotify-container {
+    margin-bottom: 2em;
+}
+
 footer {
     font-size: 1em;
     color: #616161;
@@ -30,4 +34,9 @@ footer {
     bottom: 1em;
     text-align: center;
     animation: fadeIn 1s ease-in-out;
+}
+
+.message {
+    color: #616161;
+    font-size: 1.2em;
 }
